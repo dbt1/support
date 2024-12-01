@@ -10,9 +10,6 @@
 # 	$ git filter-repo -f --use-mailmap
 #
 
-defans <defans@bluepeercrew.us> 'svenhoefer, SatBaby, snafed' <svenhoefer@svenhoefer.com>
-defans <defans@bluepeercrew.us> 'svenhoefer, snafed' <svenhoefer@svenhoefer.com>
-
 Benny <Benny@users.noreply.github.com> Benny <>
 bazi98 <bazi98@web.de> bazi98 <fritz@example.com>
 [CST] Bas <bas@coolstreamtech.com> S.R. van Loon <bas@bvl-mbp-001.(none)>
@@ -21,6 +18,8 @@ bazi98 <bazi98@web.de> bazi98 <fritz@example.com>
 defans <defans@bluepeercrew.us> snafed <snafed@bluepeercrew.us>
 defans <defans@bluepeercrew.us> SatBaby <svenhoefer@svenhoefer.com>
 defans <defans@bluepeercrew.us> snafed <svenhoefer@svenhoefer.com>
+defans <defans@bluepeercrew.us> svenhoefer, SatBaby, snafed <svenhoefer@svenhoefer.com>
+defans <defans@bluepeercrew.us> svenhoefer, snafed <svenhoefer@svenhoefer.com>
 FlatTV <FlatTV@gmx.de> FlatTV <FlatTV@linux-z6o4.site>
 Frankenstone <dampf_acc@online.de> Frankenstone <dampf_acc@yahoo.com>
 GetAway <get-away@t-online.de> GetAway <get-away@t-online.de>
